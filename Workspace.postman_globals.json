@@ -1,0 +1,19 @@
+{
+	"id": "e43e8da4-7a30-4777-8327-107709525525",
+	"values": [
+		{
+			"key": "Cookie",
+			"value": "token=123; token=; JSESSIONID=1psxpmn4nue2y7e1gipv994en",
+			"enabled": true
+		},
+		{
+			"key": "Node_id",
+			"value": "e17c29e53f42b94d2757bbc4d757c87d0877f2c6892a1f55a48ee802033cd3b5",
+			"enabled": true
+		}
+	],
+	"name": "My Workspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2019-07-18T01:56:17.598Z",
+	"_postman_exported_using": "Postman/7.3.3"
+}
